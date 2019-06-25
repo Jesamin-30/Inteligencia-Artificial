@@ -5,4 +5,6 @@
 4. En Entorno de Ejecución, seleccionar Cambiar Tipo de Entorno de Ejecución y poner en Python 3 y GPU, luego Guardar.
 5. Por último Entorno de Ejecución y seleccionar Ejecutar todo.
 
+![myimage-alt-tag](https://github.com/Jesamin-30/Inteligencia-Artificial/blob/master/ResNext_Tuning/imagenes.png) 
+
 
